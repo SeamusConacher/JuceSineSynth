@@ -1,0 +1,3 @@
+﻿  MainComponent.cpp
+d:\media\code\juceprojects\sinesynth\source\maincomponent.cpp(91): warning C4100: 'g': unreferenced formal parameter
+  SineSynth.vcxproj -> D:\Media\Code\JuceProjects\SineSynth\Builds\VisualStudio2015\Debug\SineSynth.exe
